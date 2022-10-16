@@ -1,0 +1,70 @@
+html {
+    background-color: 121212;
+}
+.mask-header {
+    background-color: 414141;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    
+}
+nav ul {
+    margin: 0;
+}
+.nav li {
+    display: inline;
+}
+.nav a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'roboto';
+}
+
+.mask-nav {
+    text-align: center;
+    
+}
+.mask-nav li {
+    padding: 0 3%;
+}
+.mask-header h1{
+            
+    color: FFFFFF;
+    font-size: 40;
+    text-align: center;
+    font-family: 'Abril Fatface';
+    font-weight: 100;
+    margin-top: 10px;
+}
+h1 {
+    color: FFFFFF;
+    font-size: 30;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 100;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+p { 
+    color: white;
+    background-color: 121212;
+    margin-bottom: 0px;
+    text-align: left;
+    font-family: 'Roboto';
+    margin-left: 15px;
+    margin-top: 0;
+               
+}
+h2 {
+    color: FFFFFF;
+    font-size: 20;
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 100;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+ul {
+    color: white;
+    font-family: 'Roboto';
+}

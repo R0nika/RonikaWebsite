@@ -1,0 +1,34 @@
+
+html {
+    background-color: 121212;
+}
+.blog-header {
+    background-color: 414141;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    
+}
+h1 {
+            
+    color: FFFFFF;
+    font-size: 40;
+    text-align: center;
+    font-family: 'Abril Fatface';
+    font-weight: 100;
+    margin-top: 10px;
+}
+
+a {
+    color: white;
+    font-size: 25px;
+    font-family: 'roboto';;
+
+}
+p {
+    color: white;
+    background-color: 121212;
+    margin-bottom: 0px;
+    text-align: left;
+    font-family: 'Roboto';
+    margin: 15px;
+}

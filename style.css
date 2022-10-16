@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    color: white;
+    background-color: 121212;
+    margin: 0;
+    padding: 0;
+}
+.bloop {
+    color: A900BC;
+}
+h1 {
+            
+    color: FFFFFF;
+    font-size: 40;
+    text-align: center;
+    font-family: 'Abril Fatface';
+    font-weight: 100;
+    margin-top: 10px;
+}
+p { 
+    color: white;
+    background-color: 121212;
+    margin-bottom: 0px;
+    text-align: left;
+    font-family: 'Roboto';
+    margin: 15px;
+               
+}
+h2 {
+    background-color: 121212;
+    font-family: 'roboto';
+    margin: 15px;
+   
+    
+
+}
+.content  {
+    max-width: 100%;
+    margin: 0 auto;
+    margin-left: 0px;
+
+}
+.box {
+    display: flex;
+    
+    
+}
+.imfBx {
+    max-width: 100%;
+    flex-basis: 40%;
+}   
+
+.main-header {
+    background-color: 414141;
+    padding-top: 10px;
+    margin: 10px;
+    
+}
+nav ul {
+    margin: 0;
+}
+.nav li {
+    display: inline;
+}
+.nav a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'roboto';
+}
+
+.main-nav {
+    text-align: center;
+    
+}
+.main-nav li {
+    padding: 0 3%;
+}
